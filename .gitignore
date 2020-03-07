@@ -1,8 +1,10 @@
+framework/base/config/debug.properties
+framework/entity/config/entityengine.xml
+
 bin/
 build/
 applications/*/build
 framework/*/build
-framework/entity/config/entityengine.xml
 runtime/git-rebase/*
 runtime/SvnInfo.ftl
 runtime/GitInfo.ftl
