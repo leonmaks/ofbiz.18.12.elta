@@ -355,6 +355,7 @@ under the License.
     <CountryAddressFormat geoId="COL" geoAssocTypeId="REGIONS"/>
     <CountryAddressFormat geoId="MEX" geoAssocTypeId="REGIONS"/>
     <CountryAddressFormat geoId="NLD" geoAssocTypeId="REGIONS" requireStateProvinceId="N" requirePostalCode="Y" postalCodeRegex="^[1-9][\d]{3}\s?(?!(sa|sd|ss|SA|SD|SS))([a-eghj-opr-tv-xzA-EGHJ-OPR-TV-XZ]{2})?$ " hasPostalCodeExt="N" requirePostalCodeExt="N"/>
+    <CountryAddressFormat geoId="RUS" geoAssocTypeId="REGIONS"/>
     <CountryAddressFormat geoId="POL" geoAssocTypeId="REGIONS"/>
     <CountryAddressFormat geoId="IND" geoAssocTypeId="REGIONS"/>
     <CountryAddressFormat geoId="ITA" geoAssocTypeId="REGIONS"/>

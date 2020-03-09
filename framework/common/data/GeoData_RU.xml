@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Licensed to the Apache Software Foundation (ASF) under one
+or more contributor license agreements.  See the NOTICE file
+distributed with this work for additional information
+regarding copyright ownership.  The ASF licenses this file
+to you under the Apache License, Version 2.0 (the
+"License"); you may not use this file except in compliance
+with the License.  You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing,
+software distributed under the License is distributed on an
+"AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+KIND, either express or implied.  See the License for the
+specific language governing permissions and limitations
+under the License.
+-->
+
+<entity-engine-xml>
+    <Geo abbreviation="01" geoCode="01" geoId="RU-01" geoName="Республика Адыгея (Адыгея)" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="02" geoCode="02" geoId="RU-02" geoName="Республика Башкортостан" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="03" geoCode="03" geoId="RU-03" geoName="Республика Бурятия" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="04" geoCode="04" geoId="RU-04" geoName="Республика Алтай" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="05" geoCode="05" geoId="RU-05" geoName="Республика Дагестан" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="06" geoCode="06" geoId="RU-06" geoName="Республика Ингушетия" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="07" geoCode="07" geoId="RU-07" geoName="Кабардино-Балкарская Республика" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="08" geoCode="08" geoId="RU-08" geoName="Республика Калмыкия" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="09" geoCode="09" geoId="RU-09" geoName="Карачаево-Черкесская Республика" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="10" geoCode="10" geoId="RU-10" geoName="Республика Карелия" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="11" geoCode="11" geoId="RU-11" geoName="Республика Коми" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="12" geoCode="12" geoId="RU-12" geoName="Республика Марий Эл" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="13" geoCode="13" geoId="RU-13" geoName="Республика Мордовия" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="14" geoCode="14" geoId="RU-14" geoName="Республика Саха (Якутия)" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="15" geoCode="15" geoId="RU-15" geoName="Республика Северная Осетия - Алания" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="16" geoCode="16" geoId="RU-16" geoName="Республика Татарстан (Татарстан)" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="17" geoCode="17" geoId="RU-17" geoName="Республика Тыва" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="18" geoCode="18" geoId="RU-18" geoName="Удмуртская Республика" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="19" geoCode="19" geoId="RU-19" geoName="Республика Хакасия" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="20" geoCode="20" geoId="RU-20" geoName="Чеченская Республика" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="21" geoCode="21" geoId="RU-21" geoName="Чувашская Республика - Чувашия" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="22" geoCode="22" geoId="RU-22" geoName="Алтайский край" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="23" geoCode="23" geoId="RU-23" geoName="Краснодарский край" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="24" geoCode="24" geoId="RU-24" geoName="Красноярский край" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="25" geoCode="25" geoId="RU-25" geoName="Приморский край" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="26" geoCode="26" geoId="RU-26" geoName="Ставропольский край" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="27" geoCode="27" geoId="RU-27" geoName="Хабаровский край" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="28" geoCode="28" geoId="RU-28" geoName="Амурская область" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="29" geoCode="29" geoId="RU-29" geoName="Архангельская область" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="30" geoCode="30" geoId="RU-30" geoName="Астраханская область" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="31" geoCode="31" geoId="RU-31" geoName="Белгородская область" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="32" geoCode="32" geoId="RU-32" geoName="Брянская область" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="33" geoCode="33" geoId="RU-33" geoName="Владимирская область" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="34" geoCode="34" geoId="RU-34" geoName="Волгоградская область" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="35" geoCode="35" geoId="RU-35" geoName="Вологодская область" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="36" geoCode="36" geoId="RU-36" geoName="Воронежская область" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="37" geoCode="37" geoId="RU-37" geoName="Ивановская область" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="38" geoCode="38" geoId="RU-38" geoName="Иркутская область" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="39" geoCode="39" geoId="RU-39" geoName="Калининградская область" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="40" geoCode="40" geoId="RU-40" geoName="Калужская область" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="41" geoCode="41" geoId="RU-41" geoName="Камчатский край" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="42" geoCode="42" geoId="RU-42" geoName="Кемеровская область" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="43" geoCode="43" geoId="RU-43" geoName="Кировская область" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="44" geoCode="44" geoId="RU-44" geoName="Костромская область" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="45" geoCode="45" geoId="RU-45" geoName="Курганская область" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="46" geoCode="46" geoId="RU-46" geoName="Курская область" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="47" geoCode="47" geoId="RU-47" geoName="Ленинградская область" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="48" geoCode="48" geoId="RU-48" geoName="Липецкая область" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="49" geoCode="49" geoId="RU-49" geoName="Магаданская область" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="50" geoCode="50" geoId="RU-50" geoName="Московская область" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="51" geoCode="51" geoId="RU-51" geoName="Мурманская область" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="52" geoCode="52" geoId="RU-52" geoName="Нижегородская область" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="53" geoCode="53" geoId="RU-53" geoName="Новгородская область" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="54" geoCode="54" geoId="RU-54" geoName="Новосибирская область" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="55" geoCode="55" geoId="RU-55" geoName="Омская область" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="56" geoCode="56" geoId="RU-56" geoName="Оренбургская область" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="57" geoCode="57" geoId="RU-57" geoName="Орловская область" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="58" geoCode="58" geoId="RU-58" geoName="Пензенская область" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="59" geoCode="59" geoId="RU-59" geoName="Пермский край" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="60" geoCode="60" geoId="RU-60" geoName="Псковская область" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="61" geoCode="61" geoId="RU-61" geoName="Ростовская область" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="62" geoCode="62" geoId="RU-62" geoName="Рязанская область" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="63" geoCode="63" geoId="RU-63" geoName="Самарская область" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="64" geoCode="64" geoId="RU-64" geoName="Саратовская область" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="65" geoCode="65" geoId="RU-65" geoName="Сахалинская область" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="66" geoCode="66" geoId="RU-66" geoName="Свердловская область" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="67" geoCode="67" geoId="RU-67" geoName="Смоленская область" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="68" geoCode="68" geoId="RU-68" geoName="Тамбовская область" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="69" geoCode="69" geoId="RU-69" geoName="Тверская область" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="70" geoCode="70" geoId="RU-70" geoName="Томская область" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="71" geoCode="71" geoId="RU-71" geoName="Тульская область" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="72" geoCode="72" geoId="RU-72" geoName="Тюменская область" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="73" geoCode="73" geoId="RU-73" geoName="Ульяновская область" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="74" geoCode="74" geoId="RU-74" geoName="Челябинская область" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="75" geoCode="75" geoId="RU-75" geoName="Забайкальский край" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="76" geoCode="76" geoId="RU-76" geoName="Ярославская область" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="77" geoCode="77" geoId="RU-77" geoName="г. Москва" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="78" geoCode="78" geoId="RU-78" geoName="Санкт-Петербург" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="79" geoCode="79" geoId="RU-79" geoName="Еврейская автономная область" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="83" geoCode="83" geoId="RU-83" geoName="Ненецкий автономный округ" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="86" geoCode="86" geoId="RU-86" geoName="Ханты-Мансийский автономный округ - Югра" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="87" geoCode="87" geoId="RU-87" geoName="Чукотский автономный округ" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="89" geoCode="89" geoId="RU-89" geoName="Ямало-Ненецкий автономный округ" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="91" geoCode="91" geoId="RU-91" geoName="Республика Крым" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="92" geoCode="92" geoId="RU-92" geoName="Севастополь" geoTypeId="TERRITORY"/>
+    <Geo abbreviation="99" geoCode="99" geoId="RU-99" geoName="Иные территории, включая город и космодром Байконур" geoTypeId="TERRITORY"/>
+
+    <GeoAssoc geoId="RUS" geoIdTo="RU-01" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-02" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-03" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-04" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-05" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-06" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-07" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-08" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-09" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-10" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-11" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-12" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-13" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-14" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-15" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-16" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-17" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-18" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-19" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-20" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-21" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-22" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-23" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-24" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-25" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-26" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-27" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-28" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-29" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-30" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-31" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-32" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-33" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-34" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-35" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-36" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-37" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-38" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-39" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-40" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-41" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-42" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-43" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-44" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-45" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-46" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-47" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-48" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-49" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-50" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-51" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-52" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-53" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-54" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-55" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-56" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-57" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-58" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-59" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-60" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-61" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-62" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-63" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-64" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-65" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-66" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-67" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-68" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-69" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-70" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-71" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-72" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-73" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-74" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-75" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-76" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-77" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-78" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-79" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-83" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-86" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-87" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-89" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-91" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-92" geoAssocTypeId="REGIONS"/>
+    <GeoAssoc geoId="RUS" geoIdTo="RU-99" geoAssocTypeId="REGIONS"/>
+</entity-engine-xml>
